@@ -4,6 +4,7 @@ Main goal is to get a quick and easy way to control and calibrate motors of the 
 For reproducibility follow the instructions below.
 
 ## Installation
+Before running the Streamlit project, ensure you have Python and pip installed on your system. Then, follow these steps:
 
 1. Clone this repository to your local machine:
 
